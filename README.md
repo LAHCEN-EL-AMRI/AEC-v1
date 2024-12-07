@@ -13,7 +13,7 @@ L'interface graphique a été divisée en trois sections distinctes :
 Section Boutons : Située en haut à gauche de l'interface, cette section contient les principales commandes nécessaires pour interagir avec le logiciel. Elle offre des fonctionnalités essentielles telles que le chargement de fichiers contenant des radionucléides et la sélection des fonctions d'étalonnage appropriées. Section Tableau des radionucléides et Section Graphique : Située en bas de l'interface, cette section est dédiée à la représentation visuelle des résultats sous forme de courbes graphiques. Les utilisateurs peuvent observer les tendances, comparer les données expérimentales aux courbes théoriques et vérifier la qualité de l'étalonnage effectué. Le graphique est conçu pour être interactif, offrant des options de zoom pour une analyse plus précise.
 
 
-#
+# Visualization of data entered in the table and graph
 
 
 
@@ -21,13 +21,13 @@ Section Boutons : Située en haut à gauche de l'interface, cette section contie
 
 
 
-#
+# Window dedicated to the parameters of the develop method]
 
 
 ![Window dedicated to the parameters of the develop method](https://github.com/LAHCEN-EL-AMRI/AEC-v1/blob/main/FIG-2_1.png)
 
 
-#
+# An example of the parameter values of the new method after an automatic calculation
 
 
 ![An example of the parameter values of the new method after an automatic calculation](https://github.com/LAHCEN-EL-AMRI/AEC-v1/blob/main/Fig-3_1.png)
