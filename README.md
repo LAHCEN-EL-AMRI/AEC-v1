@@ -9,8 +9,7 @@ Currently, AEC integrates five formulas, including one of the new method. Its op
 
 ![AEC Software GUI](https://github.com/LAHCEN-EL-AMRI/AEC-v1/blob/main/Fig0.png)
 
-L'interface graphique a été divisée en trois sections distinctes :
-Section Boutons : Située en haut à gauche de l'interface, cette section contient les principales commandes nécessaires pour interagir avec le logiciel. Elle offre des fonctionnalités essentielles telles que le chargement de fichiers contenant des radionucléides et la sélection des fonctions d'étalonnage appropriées. Section Tableau des radionucléides et Section Graphique : Située en bas de l'interface, cette section est dédiée à la représentation visuelle des résultats sous forme de courbes graphiques. Les utilisateurs peuvent observer les tendances, comparer les données expérimentales aux courbes théoriques et vérifier la qualité de l'étalonnage effectué. Le graphique est conçu pour être interactif, offrant des options de zoom pour une analyse plus précise.
+The GUI has been divided into three distinct sections: Buttons Section: Located at the top left of the interface, this section contains the main controls needed to interact with the software. It offers essential functionalities such as loading files containing radionuclides and selecting the appropriate calibration functions. Radionuclide Table Section and Graph Section: Located at the bottom of the interface, this section is dedicated to the visual representation of the results in the form of graphical curves. Users can observe trends, compare experimental data to theoretical curves and check the quality of the calibration performed. The graph is designed to be interactive, offering zoom options for more precise analysis.
 
 
 # Visualization of data entered in the table and graph
